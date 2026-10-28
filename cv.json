@@ -1,160 +1,124 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Noe Medina Maglah",
+    "label": "Junior Web Developer",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
+    "email": "medinanoe318@gmail.com",
+    "phone": "+52 984 877 9603",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "summary": "Desarrollador junior con una gran pasion por crear aplicaciones web. Actualmente buscando oportunidades para aplicar mis habilidades y extender mis conociminetos de manera profesional.",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "77013",
+      "city": "Chetumal",
+      "countryCode": "MX",
+      "region": "Q.Roo  "
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "Noe-Medina-Maglah",
+        "url": "https://www.linkedin.com/in/noe-medina-maglah-107884446 "
       },
       {
         "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "Noe-Medina-Maglah",
+        "url": "https://x.com/noe-medina-maglah"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "Noe2118",
+        "url": "https://github.com/Noe2118"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
-      "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
-      ],
-      "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
-      ]
-    },
-    {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
-      ],
-      "skills": [
-        "HTML",
-        "CSS"
-      ]
-    }
+  "name": "KDS web app",
+  "position": "Líder de Proyecto y Desarrollador Backend",
+  "location_type": "Presencial",
+  "location": "Chetumal, Quintana Roo, México",
+  "url": "https://github.com/tu-usuario/kds-project", 
+  "startDate": "2025",
+  "endDate": "2025",
+  "summary": "Encargado de liderar al equipo de desarrollo, diseñar la arquitectura del lado del servidor y colaborar en el desarrollo por parte del backend",
+  "highlights": [
+    "Diseño e implementación de arquitectura backend y base de datos relacional",
+    "Gestión exitosa del ciclo de vida del proyecto escolar"
   ],
-  "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
+  "responsibilities": [
+    "Diseñar, modelar e implementar la base de datos relacional utilizando MySQL.",
+    "Desarrollar la lógica del servidor y garantizar la integración con la interfaz de usuario.",
+    "Colaborar en el diseño e implementacion del frontend utilizando CSS"
+  ],
+  "achievements": [
+    "Despliegue exitoso del proyecto KDS, integrando un backend en MySQL con una interfaz estilizada en CSS.",
+    "Optimización del flujo de trabajo del equipo, logrando entregar el proyecto funcional dentro de los plazos establecidos."
+  ],
+  "skills": [
+    "MySQL",
+    "CSS",
+    "PHP",
+    "GitHub",
+    "Gestión de Proyectos"
+  ]
+},
+{
+  "name": "Sistema de servicio social",
+  "position": "Ingeniero de Software y Desarrollador Web",
+  "location_type": "Presencial",
+  "location": "Chetumal, Quintana Roo, México",
+  "url": "https://github.com/tu-usuario/servicio-social-itch",
+  "startDate": "2026",
+  "endDate": "2026",
+  "summary": "Diseño y desarrollo de una plataforma web orientada a digitalizar y automatizar los procesos administrativos del servicio social en el Instituto Tecnológico de Chetumal, aplicando metodologías formales de ingeniería de software.",
+  "highlights": [
+    "Transformación digital de un proceso manual a un sistema web automatizado",
+    "Aplicación del ciclo de vida del desarrollo de software (SDLC)"
+  ],
+  "responsibilities": [
+    "Realizar el levantamiento de requerimientos, análisis y diseño arquitectónico del sistema basado en principios de ingeniería de software.",
+    "Desarrollar la lógica de negocio y el backend utilizando PHP, asegurando la seguridad e integridad de los datos.",
+    "Diseñar e implementar la base de datos relacional en MySQL para gestionar la información de estudiantes, administradores y dependencias externas.",
+    "Administrar el control de versiones y la integración del código fuente de manera colaborativa utilizando Git y GitHub."
+  ],
+  "achievements": [
+    "Automatización exitosa del flujo de trabajo, optimizando los tiempos de respuesta y facilitando la comunicación entre los diferentes actores del proceso.",
+    "Estructuración de una base de código escalable y mantenible mediante la correcta aplicación de patrones de diseño y modelado de datos."
+  ],
+  "skills": [
+    "PHP",
+    "MySQL",
+    "Ingeniería de Software",
+    "Git",
+    "GitHub",
+    "Análisis de Requerimientos",
+    "Automatización de Procesos"
+  ]
+}
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "institution": "Instituto Tecnológico de Chetumal",
+      "url": "https://chetumal.tecnm.mx",
+      "area": "Ingenieria en sistemas computacionales",
+      "studyType": "Licenciatura",
+      "startDate": "2024",
+      "endDate": "En proceso",
+      "score": "8.8",
       "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
       ]
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
+      "institution": "Colegio de Bachilleres",
+      "url": "http://www.cobaqroo.edu.mx/paginaweb2021/Instancias/plantelZaragoza.html",
+      "area": "Redes y telecomunicaciones",
+      "studyType": "Bachillerato",
+      "startDate": "2021",
+      "endDate": "2024",
       "score": "3.9",
       "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
       ]
     }
   ],
@@ -167,23 +131,6 @@
     }
   ],
   "skills": [
-    {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
     {
       "name": "HTML",
       "level": "Intermediate",
@@ -202,16 +149,6 @@
       ]
     },
     {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
       "name": "Tailwind",
       "level": "Intermediate",
       "keywords": [
@@ -219,16 +156,6 @@
         "Frontend",
         "CSS Framework",
         "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
       ]
     },
     {
@@ -252,15 +179,6 @@
       ]
     },
     {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
       "name": "GitHub",
       "level": "Intermediate",
       "keywords": [
@@ -271,94 +189,84 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
+      "name": "PHP",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
+        "Backend",
+        "Server-side Scripting"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": [
+        "Programming",
+        "Backend",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": [
+        "Programming",
+        "Backend",
+        "Object-Oriented Programming"
       ]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "language": "Ingles",
+      "fluency": "Intermedio"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "language": "Español",
+      "fluency": "Nativo"
     }
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
+      "name": "Portafolio personal",
       "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
+      "description": "Un portfolio personal para mostrar mis proyectos y habilidades.",
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
+        "Creado con Astro y Tailwind CSS",
+        "Incluye secciones de proyectos, habilidades y contacto"
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "url": "https://github.com/Noe2118/miCv_Noe.git",
+      "github": "https://github.com/Noe2118/miCv_Noe.git"
     },
     {
-      "name": "Weather App",
+      "name": "KDS web app",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "Una aplicacion de venta(POS) con una arquitectura cliente-servidor orientada a restaurantes",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Creada con Php, Mysql y CSS",
+        "Incluye dashboard, login, y un sistema inventarios y operaciones CRUD"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://weatherapp.com",
+      "github" :"https://github.com/Noe2118/Servicio-Social.git"
     },
     {
-      "name": "Task Manager",
+      "name": "App web de servicio social",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "Una aplicación web para gestionar procesos del servicio social.",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Creada con Php, Mysql",
+        "Autenticación de usuarios y operaciones CRUD"
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
+      "url": "https://github.com/Noe2118/Servicio-Social.git",
+      "github": "https://github.com/Noe2118/Servicio-Social.git"
     }
   ]
 }
