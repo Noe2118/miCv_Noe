@@ -7,6 +7,7 @@ export interface CV {
   certificates: Array<Certificates>;
   publications: Array<Publications>;
   skills: Array<Skills>;
+  softSkills: Array<Skills>;
   languages: Array<Languages>;
   interests: Array<Interests>;
   references: Array<References>;
