@@ -2,7 +2,7 @@
   "basics": {
     "name": "Noe Medina Maglah",
     "label": "Junior Web Developer",
-    "image": "/me_avatar.jpg",
+    "image": "/perfil.png",
     "email": "medinanoe318@gmail.com",
     "phone": "+52 984 877 9603",
     "url": "https://johndoe.dev",
@@ -72,20 +72,17 @@
   "url": "https://github.com/tu-usuario/servicio-social-itch",
   "startDate": "2026",
   "endDate": "2026",
-  "summary": "Diseño y desarrollo de una plataforma web orientada a digitalizar y automatizar los procesos administrativos del servicio social en el Instituto Tecnológico de Chetumal, aplicando metodologías formales de ingeniería de software.",
+  "summary": "Diseño y desarrollo de una plataforma web orientada a digitalizar y automatizar los procesos administrativos del servicio social en el Instituto Tecnológico de Chetumal",
   "highlights": [
-    "Transformación digital de un proceso manual a un sistema web automatizado",
-    "Aplicación del ciclo de vida del desarrollo de software (SDLC)"
+    "Transformación digital de un proceso manual a un sistema web automatizado"
   ],
   "responsibilities": [
     "Realizar el levantamiento de requerimientos, análisis y diseño arquitectónico del sistema basado en principios de ingeniería de software.",
-    "Desarrollar la lógica de negocio y el backend utilizando PHP, asegurando la seguridad e integridad de los datos.",
-    "Diseñar e implementar la base de datos relacional en MySQL para gestionar la información de estudiantes, administradores y dependencias externas.",
+    "Diseñar e implementar la base de datos relacional en MySQL para gestionar la información de los usuarios",
     "Administrar el control de versiones y la integración del código fuente de manera colaborativa utilizando Git y GitHub."
   ],
   "achievements": [
-    "Automatización exitosa del flujo de trabajo, optimizando los tiempos de respuesta y facilitando la comunicación entre los diferentes actores del proceso.",
-    "Estructuración de una base de código escalable y mantenible mediante la correcta aplicación de patrones de diseño y modelado de datos."
+    "Automatización exitosa del flujo de trabajo, optimizando los tiempos de respuesta y facilitando la comunicación."
   ],
   "skills": [
     "PHP",
@@ -123,12 +120,6 @@
     }
   ],
   "certificates": [
-    {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
-    }
   ],
   "skills": [
     {
@@ -159,7 +150,7 @@
       ]
     },
     {
-      "name": "Node",
+      "name": "SQL",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
@@ -237,36 +228,86 @@
   "projects": [
     {
       "name": "Portafolio personal",
-      "isActive": false,
+      "isActive": true,
       "description": "Un portfolio personal para mostrar mis proyectos y habilidades.",
       "highlights": [
         "Creado con Astro y Tailwind CSS",
         "Incluye secciones de proyectos, habilidades y contacto"
       ],
-      "url": "https://github.com/Noe2118/miCv_Noe.git",
+      "url": "https://p01--noe-porfafolio--qm4njj7wdqtt.code.run",
       "github": "https://github.com/Noe2118/miCv_Noe.git"
     },
     {
       "name": "KDS web app",
-      "isActive": true,
+      "isActive": false,
       "description": "Una aplicacion de venta(POS) con una arquitectura cliente-servidor orientada a restaurantes",
       "highlights": [
         "Creada con Php, Mysql y CSS",
         "Incluye dashboard, login, y un sistema inventarios y operaciones CRUD"
       ],
-      "url": "https://weatherapp.com",
-      "github" :"https://github.com/Noe2118/Servicio-Social.git"
+      "github" :"https://github.com/UrielEspens/KDS.git"
     },
     {
       "name": "App web de servicio social",
-      "isActive": true,
+      "isActive": false,
       "description": "Una aplicación web para gestionar procesos del servicio social.",
       "highlights": [
         "Creada con Php, Mysql",
         "Autenticación de usuarios y operaciones CRUD"
       ],
-      "url": "https://github.com/Noe2118/Servicio-Social.git",
       "github": "https://github.com/Noe2118/Servicio-Social.git"
+    },
+    {
+      "name": "Sistema de reservas-restaurantes",
+      "isActive": false,
+      "description": "Una aplicacion de venta(POS) con una arquitectura cliente-servidor orientada a restaurantes",
+      "highlights": [
+        "Creada con Php, Mysql y CSS",
+        "Incluye dashboard, login, y un sistema inventarios y operaciones CRUD"
+      ],
+      "github" :"https://github.com/SaulColli/Reserva-Restaurantes.git"
+    }
+  ],
+  "SoftSkills":[
+    {
+      "name": "Trabajo en equipo",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Comunicacion",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Responsabilidad",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Resolucion de problemas",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Adaptabilidad",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
     }
   ]
 }
